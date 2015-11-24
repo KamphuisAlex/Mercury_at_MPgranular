@@ -1,0 +1,4 @@
+#! /bin/bash
+cmd="~/MercuryDPM/MercuryBuild/Drivers/Kamphuis/"
+cmd="$cmd$1"
+eval "$cmd"
