@@ -15,4 +15,4 @@ This repository contains some files that:
 
 	> accepts one argument as name of a driver to run from your personal driver directory
 
-To use it you have to change the paths to whatever they are on your system. 
+To use it you have to change the paths to whatever they are on your system. You can then place them in a directory that is on your PATH for ease of acces or symlink to them.
